@@ -8,15 +8,14 @@ assignees: ''
 ---
 
 **As a** [role]  
-**I need** [feature]  
+**I need** [function]  
 **So that** [benefit]
 
 ### Details and Assumptions
-* [document what you know]
+* [List any details or assumptions here]
 
 ### Acceptance Criteria
-
 ```gherkin
-Given [context]  
-When [action]  
-Then [outcome]
+Given [context or precondition]  
+When [action taken by the user or system]  
+Then [expected outcome or result]  
