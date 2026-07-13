@@ -12,7 +12,7 @@ assignees: ''
  **So that** [the benefit or value the user receives]  
    
  ### Details and Assumptions
- * [document what you know]
+ * [List any relevant details, constraints, or assumptions needed for the story]
    
  ### Acceptance Criteria  
    
